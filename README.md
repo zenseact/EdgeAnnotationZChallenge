@@ -1,5 +1,7 @@
 # Welcome to the Edge AnnotationZ Challenge
-Hi and welcome to the Edge AnnotationZ Challenge. We are very excited that you want to take part in this challenge and help us tackle this complex problem. This short document intend to give some information that can be useful during the challenge.
+Edge AnnotationZ Challenge was opened on December 14, 2021, and closed on February 10, 2022 (see [here](https://www.ai.se/en/data-factory/challenges/edge-annotationz)).
+However, you are always welcome to try out your ideas and let us know how your solutions work for this problem.
+This short document intends to explain the challenge and how the evaluation is done.
 To have a more detailed description of the challenge, please see [challenge description](/assets/challenge-problem-description.pdf).
 
 # Dataset 
