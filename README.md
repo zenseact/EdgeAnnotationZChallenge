@@ -72,7 +72,7 @@ Furthermore, the computation of 2D, BEV, and 3D AP is done independently, but we
 ### Framework for evaluation
 To compute the metrics we will use [this forked repository](https://github.com/zenseact/kitti_native_evaluation) which we have modified slightly to suit our needs. To evaluate your performance you can clone that repository and follow the compilation stages found in the repos README. 
 
-We have also created a Dockerfile that you can use. This can be found under the `eval` folder in the complementary [development-kit](https://github.com/zenseact/development_kit). 
+We have also created a Dockerfile that you can use. This can be found under the `eval` folder. 
 
 
 ### Filenames & Submission
