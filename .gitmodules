@@ -1,0 +1,3 @@
+[submodule "development_kit"]
+	path = development_kit
+	url = https://github.com/zenseact/development_kit.git
